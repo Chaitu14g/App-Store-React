@@ -1,0 +1,29 @@
+.listItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tab_heading {
+  color: #7b8794;
+  font-size: 15px;
+  font-weight: normal;
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.hr_line {
+  color: #dfe2e5;
+  width: 80px;
+}
+
+.hr_line_blue {
+  color: #2563eb;
+}
+
+.hr_color {
+  border-color: #2563eb;
+  border-style: solid;
+  border-width: 0.1px;
+}
